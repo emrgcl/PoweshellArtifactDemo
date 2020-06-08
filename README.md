@@ -1,4 +1,12 @@
-# PoweshellArtifactDemo
+# Poweshell Artifact Demo
+Azure Arifacts is a feature in Azure Devops that helps DEvelopment teams to host Nuget, Phyton, NPM and many more packages using feeds. 
+
+Powershell Module Packages in repositories like PowerShell Gallery are Nuget Packages and we can utilize Azure Artifacts feature to host and manage our PowerShell modules in the form of Nuget Packages the Azure Artifacts. 
+
+This repository is a walkthrough explanation with poershell samples based on [Use Azure Artifacts as a private PowerShell repository](https://docs.microsoft.com/en-us/azure/devops/.artifacts/tutorials/private-powershell-library?view=azure-devops)
+
+Enjoy!
+
 
 ## Preperation
 
